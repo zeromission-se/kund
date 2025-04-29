@@ -1,5 +1,5 @@
 .slideshow {
-  height: 110px;
+  height: 85px;
   max-width: 100%;
   margin: 0 auto;
   position: relative;
@@ -21,7 +21,7 @@
 .slideshowImages img {
   display:inline-block;
   vertical-align:middle;
-  max-height: 100px;
+  max-height: 80px;
   width:auto;
   margin: 0 12px;
   transition: all 0.3s ease;
